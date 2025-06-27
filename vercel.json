@@ -1,0 +1,7 @@
+{
+  "rewrites": [
+    { "source": "/rps", "destination": "/rps/index.html" },
+    { "source": "/snake", "destination": "/snake/index.html" },
+    { "source": "/tictactoe", "destination": "/tictactoe/index.html" }
+  ]
+}
